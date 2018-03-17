@@ -24,7 +24,7 @@
     <packaging>pom</packaging>
     <name>MVC ${project.version} Spec</name>
     <url>https://www.mvc-spec.org/</url>
-
+    
     <organization>
         <name>Ivar Grimstad</name>
         <url>https://www.mvc-spec.org/</url>
